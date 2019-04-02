@@ -28,7 +28,7 @@ https://www.superdatascience.com/pages/machine-learning
   
   
 <h4>Note:
-<i>I am still working on this project. Thefore, any incomplete parts will be added later.</i>
+<i>I am still working on this repo. Thefore, any incomplete parts will be added later.</i>
   </h4>
   
  
